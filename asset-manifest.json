@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/https;//shubham2105.github.io/vistaprint-clone/static/css/main.7c951152.css",
+    "main.js": "/https;//shubham2105.github.io/vistaprint-clone/static/js/main.76adb65d.js",
+    "static/js/787.4d487f4d.chunk.js": "/https;//shubham2105.github.io/vistaprint-clone/static/js/787.4d487f4d.chunk.js",
+    "static/media/calendar.webp": "/https;//shubham2105.github.io/vistaprint-clone/static/media/calendar.0c637119bfe8d9bb64d6.webp",
+    "static/media/logo.png": "/https;//shubham2105.github.io/vistaprint-clone/static/media/logo.2e52769c7f36975ce4cc.png",
+    "static/media/card.webp": "/https;//shubham2105.github.io/vistaprint-clone/static/media/card.812ad2b4ce8cee56c677.webp",
+    "static/media/mp3.webp": "/https;//shubham2105.github.io/vistaprint-clone/static/media/mp3.98cb6f57f5a6306ceb22.webp",
+    "static/media/mp4.webp": "/https;//shubham2105.github.io/vistaprint-clone/static/media/mp4.7629d6aa2ae50aeec047.webp",
+    "static/media/mp1.webp": "/https;//shubham2105.github.io/vistaprint-clone/static/media/mp1.e046783b63d89a743342.webp",
+    "static/media/mp6.webp": "/https;//shubham2105.github.io/vistaprint-clone/static/media/mp6.b998c0a681645f1a2632.webp",
+    "static/media/mp5.webp": "/https;//shubham2105.github.io/vistaprint-clone/static/media/mp5.b8f1cf151fcf335b8fe8.webp",
+    "static/media/mp2.webp": "/https;//shubham2105.github.io/vistaprint-clone/static/media/mp2.49742fcd8bb94adb4391.webp",
+    "index.html": "/https;//shubham2105.github.io/vistaprint-clone/index.html",
+    "main.7c951152.css.map": "/https;//shubham2105.github.io/vistaprint-clone/static/css/main.7c951152.css.map",
+    "main.76adb65d.js.map": "/https;//shubham2105.github.io/vistaprint-clone/static/js/main.76adb65d.js.map",
+    "787.4d487f4d.chunk.js.map": "/https;//shubham2105.github.io/vistaprint-clone/static/js/787.4d487f4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c951152.css",
+    "static/js/main.76adb65d.js"
+  ]
+}
